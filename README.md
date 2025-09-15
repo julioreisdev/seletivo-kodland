@@ -5,7 +5,7 @@ Siga as instruções abaixo para rodar o projeto em seu computador.
 
 ## Demonstração
 
-Veja abaixo um vídeo demonstrativo do jogo:
+Veja abaixo um vídeo demonstrativo do jogo: game.mp4, na raiz do projeto.
 
 <video src="game.mp4" controls width="600"></video>
 
