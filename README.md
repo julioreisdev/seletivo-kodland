@@ -7,7 +7,7 @@ Siga as instruções abaixo para rodar o projeto em seu computador.
 
 Veja abaixo um vídeo demonstrativo do jogo:
 
-<video src="game.mkv" controls width="600"></video>
+<video src="game.mp4" controls width="600"></video>
 
 ## 1. Crie um ambiente virtual do Python
 
